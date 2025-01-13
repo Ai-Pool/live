@@ -49,11 +49,9 @@ http://183.128.82.254:4022/udp/233.50.200.231:5140
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台"  tvg-logo="none" group-title="香港频道",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="千禧經典台(HK)"  tvg-logo="none" group-title="香港频道",千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="千禧經典台(HK)"  tvg-logo="none" group-title="香港频道",[HD]tvb千禧经典
+#EXTINF:-1 tvg-name="千禧經典台(HD)"  tvg-logo="none" group-title="香港频道",[HD]tvb千禧经典
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
-#EXTINF:-1 tvg-name="千禧經典台(HK)"  tvg-logo="none" group-title="香港频道",千禧經典台(HK)
+#EXTINF:-1 tvg-name="千禧經典台(AKTV)"  tvg-logo="none" group-title="香港频道",千禧經典台(HK)
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠剧集台(北美)"  tvg-logo="none" group-title="香港频道",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
