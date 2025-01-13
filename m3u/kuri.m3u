@@ -1,53 +1,49 @@
 #EXTM3U  
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="none" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="none" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="none" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="none" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="none" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="none" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="none" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="none" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
+http://171.213.210.146:8888/udp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="none" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+http://220.174.42.59:8888/rtp/239.253.64.247:5140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="none" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
+http://171.213.134.85:55555/udp/239.93.1.24:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="none" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="none" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="none" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="none" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="none" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="none" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="none" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="none" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="none" group-title="卫视频道",湖南卫视
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+http://222.184.194.118:55555/rtp/239.49.8.142:6000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="none" group-title="卫视频道",东方卫视
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="none" group-title="卫视频道",安徽卫视
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
+http://121.226.21.221:55555/rtp/239.49.8.140:6000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="none" group-title="卫视频道",江苏卫视
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+http://112.193.63.67:4022/udp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="none" group-title="卫视频道",浙江卫视
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="none" group-title="卫视频道",北京卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+http://183.128.82.254:4022/udp/233.50.200.231:5140
 
 #EXTINF:-1 tvg-name="翡翠台"  tvg-logo="none" group-title="香港频道",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
