@@ -1,18 +1,18 @@
 #EXTM3U  
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-1 综合
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+http://58.63.65.114:8888/udp/239.77.1.17:5146
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-2 财经
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+http://111.196.129.68:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-3 综艺
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+http://121.228.158.213:8800/rtp/239.49.9.31:6000
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-4 中文国际
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
+http://116.28.98.129:8888/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-5 体育
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+http://175.9.73.76:4022/udp/239.76.253.155:9000
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-5+ 体育赛事
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+http://175.9.73.76:4022/udp/239.76.246.168:1234
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-6 电影
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
+http://113.223.215.133:9000/udp/239.76.246.156:1234
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-7 国防军事
 http://171.213.210.146:8888/udp/239.93.1.67:5140
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-8 电视剧
@@ -20,21 +20,21 @@ http://220.174.42.59:8888/rtp/239.253.64.247:5140
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-9 纪录
 http://171.213.134.85:55555/udp/239.93.1.24:5140
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-10 科教
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
+http://117.86.49.232:8888/rtp/239.49.8.134:6000
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-11 戏曲
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
+http://175.9.73.76:4022/udp/239.76.245.251:1234
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-12 社会与法
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
+http://36.101.3.42:8886/rtp/239.253.64.97:5140
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-13 新闻
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+http://114.254.83.144:2222/rtp/239.3.1.124:8128
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-14 少儿
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
+http://14.117.234.149:9000/udp/239.77.1.171:5146
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-15 音乐
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
+http://171.213.131.203:9100/udp/239.93.0.103:5140
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-16 奥林匹克
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
+http://110.19.171.11:8888/udp/239.125.2.206:4120
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-17 农业农村
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
+http://114.254.83.254:8888/rtp/239.3.1.151:8144
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",湖南卫视
 http://222.184.194.118:55555/rtp/239.49.8.142:6000
