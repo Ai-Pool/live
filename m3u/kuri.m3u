@@ -4,7 +4,7 @@ http://58.63.65.114:8888/udp/239.77.1.17:5146
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-2 财经
 http://111.196.129.68:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-3 综艺
-http://121.228.158.213:8800/rtp/239.49.9.31:6000
+http://171.213.131.203:9100/udp/239.93.1.11:2223
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-4 中文国际
 http://116.28.98.129:8888/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-5 体育
