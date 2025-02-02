@@ -63,7 +63,7 @@ http://118.79.12.100:6000/rtp/226.0.2.143:9056
 http://tvpull.careryun.com/tv/dfws.m3u8
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",江苏卫视
-http://tvpull.careryun.com/tv/dfws.m3u8
+http://14.117.233.59:9000/udp/239.77.0.90:5146
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -86,13 +86,13 @@ https://stream1.freetv.fun/c1207259af9bb9d243db7da133f62fc1c4920bf00f1d23840dfd5
 https://stream1.freetv.fun/dc7f3b675a2baae6a354ab6794efeb7a0a09c2f8b595fb26bed508d7950e80b6.m3u8
 
 #EXTINF:-1 tvg-logo="none" group-title="广东频道",广东新闻
-https://stream1.freetv.fun/275b407034c712c6e60c716340cc0c3612cbbf91e6296a34b679a3fe2c3fc934.m3u8
+http://14.117.233.59:9000/udp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-logo="none" group-title="广东频道",广东公共
 https://stream1.freetv.fun/6795ee00b2fe1c2fa2b8d27afdef839ff08a9f9442be1a54477bfc47a0c75e92.ctv
 
 #EXTINF:-1 tvg-logo="none" group-title="广东频道",广东民生
-https://stream1.freetv.fun/4e03fe3ba03fdd1092573fecb2617d263d4aa917f8efc028f6e41991e319f2d5.ctv
+http://14.117.233.59:9000/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-logo="none" group-title="广东频道",广州南国都市频道4K
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
