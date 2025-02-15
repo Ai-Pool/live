@@ -50,7 +50,7 @@ http://z.b.bkpcp.top/m.php?id=cctv14
 http://z.b.bkpcp.top/m.php?id=cctv15
 
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-16 奥林匹克
-http://58.17.48.228:808/hls/25/index.m3u8
+http://114.243.105.244:8822/rtp/239.3.1.184:8001
 
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-17 农业农村
 http://z.b.bkpcp.top/m.php?id=cctv17
