@@ -79,11 +79,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-logo="none" group-title="香港频道",明珠台(备用1)
 https://stream1.freetv.fun/4bd0ec25b2cc36739d625ad4442e93c5b0f015a912a7f3e33b4e48fd638de3d3.ctv
-#EXTINF:-1 tvg-name="千禧經典台(AKTV)"  tvg-logo="none" group-title="香港频道",千禧經典台(HK)
+#EXTINF:-1 tvg-logo="none" group-title="香港频道",千禧經典台(HK)
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
-#EXTINF:-1 tvg-name="千禧經典台(AKTV1)"  tvg-logo="none" group-title="香港频道",千禧經典台(HK1)
+#EXTINF:-1 tvg-logo="none" group-title="香港频道",千禧經典台(HK1)
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-name="千禧經典台(AKTV2)"  tvg-logo="none" group-title="香港频道",千禧經典台(HK2)
+#EXTINF:-1 tvg-logo="none" group-title="香港频道",千禧經典台(HK2)
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476210.m3u8
 
 
