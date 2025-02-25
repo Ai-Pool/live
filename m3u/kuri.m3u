@@ -57,13 +57,13 @@ http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",湖南卫视
-http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+http://122.236.123.210:8088/udp/233.50.200.190:5140
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",东方卫视
-http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+http://183.184.207.180:8082/rtp/226.0.2.175:9312
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",江苏卫视
-http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+http://1.70.34.29:8083/udp/239.1.1.35:8035
 
 #EXTINF:-1 tvg-logo="none" group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
