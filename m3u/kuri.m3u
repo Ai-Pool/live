@@ -1,7 +1,7 @@
 #EXTM3U  
 
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-1 综合
-http://goo.bkpcp.top/mg/cctv1
+http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-2 财经
 http://goo.bkpcp.top/mg/cctv2
 #EXTINF:-1 tvg-logo="none" group-title="央视频道",CCTV-3 综艺
